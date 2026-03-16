@@ -29,6 +29,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -68,8 +69,14 @@
 ## Connect
 
 <p>
+  <a href="https://aleksandrs-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-aleksandrs--portfolio-6c63ff?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aleksandrs-drozdovs-13b730331/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aleksandrs%20Drozdovs-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/aleks-drozy">
-    <img src="https://img.shields.io/badge/GitHub-aleks--drozy-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-aleks--drozy-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
