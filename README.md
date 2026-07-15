@@ -1,7 +1,7 @@
 <h1 align="center">Aleksandrs Drozdovs</h1>
 
 <p align="center">
-  <strong>Computer Science & Software Engineering student at Maynooth University</strong><br />
+  <strong>Computer Science & Software Engineering graduate, Maynooth University (2026)</strong><br />
   Quantitative research tooling, full-stack web apps, and software that validates its own results.
 </p>
 
