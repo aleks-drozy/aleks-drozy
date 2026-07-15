@@ -25,6 +25,7 @@
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [Quant Strategy Research Program](https://github.com/aleks-drozy/fyp-strategy-engine) | Six-phase, pre-registered research program that honestly settled whether a +$28k backtest edge was real (10 years, 3 futures markets, 176-test CI suite) | Python, pandas, pytest |
+| [Jarvis](https://github.com/aleks-drozy/jarvis) | Butler-style personal AI assistant (Claude Code agent skill + PowerShell): voice in/out, a daily 08:30 briefing email, and unattended automation with hard safety rules | PowerShell, Claude, whisper.cpp |
 | [Monte Carlo Robustness Study](https://github.com/aleks-drozy/Trading-Strategy-Monte-Carlo-Simulation) | Bootstrap, reshuffle, and drawdown-risk analysis of a real 72-trade track record, plus an ML trade-filter experiment | Python, Jupyter, scikit-learn |
 | [Trading Dashboard](https://github.com/aleks-drozy/Trading_Dashboard) | Full-stack trading analytics app with frontend, backend, tests, and deployment structure | TypeScript, Python, Next.js |
 | [FYP Trading Strategy](https://github.com/aleks-drozy/fyp-trading-strategy) | Research-led strategy design with documented in-sample and out-of-sample results | Pine Script |
