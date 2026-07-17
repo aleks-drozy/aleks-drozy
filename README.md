@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://aleksandrs-portfolio.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/aleksandrs-drozdovs-13b730331/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/aleksandrsdrozdovs/">LinkedIn</a> ·
   <a href="https://github.com/aleks-drozy">GitHub</a>
 </p>
 
@@ -24,13 +24,12 @@
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [Quant Strategy Research Program](https://github.com/aleks-drozy/fyp-strategy-engine) | Six-phase, pre-registered research program that honestly settled whether a +$28k backtest edge was real (10 years, 3 futures markets, 176-test CI suite) | Python, pandas, pytest |
+| [Football Trajectory](https://github.com/aleks-drozy/football-trajectory) | Pre-registered Monte Carlo career projections for young footballers over 24,057 player-seasons — honest verdict (NOT PROVEN), a [public predictions ledger](https://github.com/aleks-drozy/football-trajectory/blob/master/PREDICTIONS.md) scored in May 2027, and a [live explorer](https://aleks-drozy.github.io/football-trajectory/) | Python, pandas, GitHub Pages |
 | [Jarvis](https://github.com/aleks-drozy/jarvis) | Butler-style personal AI assistant (Claude Code agent skill + PowerShell): voice in/out, a daily 08:30 briefing email, and unattended automation with hard safety rules | PowerShell, Claude, whisper.cpp |
-| [Monte Carlo Robustness Study](https://github.com/aleks-drozy/Trading-Strategy-Monte-Carlo-Simulation) | Bootstrap, reshuffle, and drawdown-risk analysis of a real 72-trade track record, plus an ML trade-filter experiment | Python, Jupyter, scikit-learn |
+| [Quant Strategy Research Program](https://github.com/aleks-drozy/fyp-strategy-engine) | Six-phase, pre-registered research program that honestly settled whether a +$28k backtest edge was real (10 years, 3 futures markets, 176-test CI suite) | Python, pandas, pytest |
+| [PolyMarket Favourite Bias](https://github.com/aleks-drozy/polymarket-favourite-bias) | Pre-registered backtest over 2,418 resolved prediction markets: favourites win 90.6% of bets and still lose ~1% after fees — a published null result | Python, pandas, pytest |
 | [Trading Dashboard](https://github.com/aleks-drozy/Trading_Dashboard) | Full-stack trading analytics app with frontend, backend, tests, and deployment structure | TypeScript, Python, Next.js |
-| [FYP Trading Strategy](https://github.com/aleks-drozy/fyp-trading-strategy) | Research-led strategy design with documented in-sample and out-of-sample results | Pine Script |
-| [NoteIt](https://github.com/aleks-drozy/noteit) | Full-stack note-taking app with role-based auth, sharing, and publishing flows | JavaScript, Node.js, MongoDB |
-| [Portfolio](https://github.com/aleks-drozy/aleksandrs-portfolio) | Personal portfolio built to showcase projects and technical direction | TypeScript, Next.js, Tailwind CSS |
+| [Speed-to-Lead Agent](https://github.com/aleks-drozy/speed-to-lead-demo) | AI agent that catches, qualifies and books inbound leads in under 60 seconds ([live demo](https://aleks-drozy.github.io/speed-to-lead-demo/)) | JavaScript, Claude |
 
 ## Technical Toolkit
 
