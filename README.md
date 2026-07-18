@@ -25,7 +25,7 @@
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [Football Trajectory](https://github.com/aleks-drozy/football-trajectory) | Pre-registered Monte Carlo career projections for young footballers over 24,057 player-seasons — honest verdict (NOT PROVEN), a [public predictions ledger](https://github.com/aleks-drozy/football-trajectory/blob/master/PREDICTIONS.md) scored in May 2027, and a [live explorer](https://aleks-drozy.github.io/football-trajectory/) | Python, pandas, GitHub Pages |
-| [Jarvis](https://github.com/aleks-drozy/jarvis) | Butler-style personal AI assistant (Claude Code agent skill + PowerShell): voice in/out, a daily 08:30 briefing email, and unattended automation with hard safety rules | PowerShell, Claude, whisper.cpp |
+| [Jarvis](https://github.com/aleks-drozy/jarvis) | Butler-style personal AI assistant (Claude Code agent skill + PowerShell): voice in/out, a daily 08:30 Telegram briefing, and unattended automation with hard safety rules | PowerShell, Claude, whisper.cpp |
 | [Quant Strategy Research Program](https://github.com/aleks-drozy/fyp-strategy-engine) | Six-phase, pre-registered research program that honestly settled whether a +$28k backtest edge was real (10 years, 3 futures markets, 176-test CI suite) | Python, pandas, pytest |
 | [PolyMarket Favourite Bias](https://github.com/aleks-drozy/polymarket-favourite-bias) | Pre-registered backtest over 2,418 resolved prediction markets: favourites win 90.6% of bets and still lose ~1% after fees — a published null result | Python, pandas, pytest |
 | [Trading Dashboard](https://github.com/aleks-drozy/Trading_Dashboard) | Full-stack trading analytics app with frontend, backend, tests, and deployment structure | TypeScript, Python, Next.js |
