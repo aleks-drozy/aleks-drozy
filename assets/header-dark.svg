@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="184" viewBox="0 0 840 184" role="img" aria-label="Aleksandrs Drozdovs, software engineer, Dublin, Ireland">
+  <rect width="840" height="184" rx="8" fill="#161b22"/>
+  <rect x="48" y="56" width="5" height="80" fill="#6880e8"/>
+  <text x="76" y="96"
+        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
+        font-size="48" font-weight="600" letter-spacing="1"
+        fill="#e6edf3" text-rendering="geometricPrecision">ALEKSANDRS DROZDOVS</text>
+  <text x="76" y="128"
+        font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
+        font-size="24" letter-spacing="0.5"
+        fill="#9198a1" text-rendering="geometricPrecision">software engineer · dublin, ireland</text>
+</svg>
