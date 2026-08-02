@@ -50,5 +50,5 @@ Monte Carlo career projection over 24,057 FBref Big-5 player-seasons, separating
 
 ---
 
-**Education** — B.Sc. (Hons) Computer Science and Software Engineering, Maynooth University, 2026. Upper Second-Class Honours.  
+**Education** — B.Sc. (Hons) Computer Science and Software Engineering, Maynooth University, expected 2026. Predicted Upper Second-Class Honours.  
 **Experience** — Quantitative Researcher and Software Engineer, DLT Capital, February to July 2025.
